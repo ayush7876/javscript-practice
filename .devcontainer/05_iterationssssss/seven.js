@@ -11,3 +11,4 @@ const newNums = myNumers
                 // jisme 2 map aagye ek ye filter aagya .
 
 console.log(newNums);
+.......
